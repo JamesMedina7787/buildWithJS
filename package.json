@@ -1,0 +1,31 @@
+{
+  "name": "javahtml",
+  "version": "1.0.0",
+  "description": "A program made of Javascript to build the page from scratch - without html or css",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamesMedina7787/buildWithJS.git"
+  },
+  "keywords": [
+    "build",
+    "javascript",
+    "js",
+    "element",
+    "variables"
+  ],
+  "author": "JWM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JamesMedina7787/buildWithJS/issues"
+  },
+  "homepage": "https://github.com/JamesMedina7787/buildWithJS#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3"
+  }
+}
