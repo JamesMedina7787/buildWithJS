@@ -15,6 +15,10 @@ app.get('/',(req,res)=>{
 
   return res.render('new')
 })
+app.get('/celeb',(req,res)=>{
+
+  return res.render('celeb')
+})
 
 app.listen(PORT, ()=>{
   console.log('listening on port 3000')
